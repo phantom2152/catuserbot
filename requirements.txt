@@ -21,6 +21,7 @@ hachoir
 heroku3
 html-telegraph-poster
 humanize
+instaloader
 jikanpy
 justwatch
 lottie
